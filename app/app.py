@@ -24,10 +24,10 @@ HTML = """
 </head>
 <body>
     <div class="container">
-        <h1>🚀 Plataforma DevOps AWS</h1>
+        <h1>Plataforma DevOps AWS</h1>
         <div class="card">
             <span class="badge">LIVE</span>
-            <p class="status">✅ Aplicación funcionando correctamente</p>
+            <p class="status">Aplicación funcionando correctamente</p>
             <table>
                 <tr><td>Empresa</td><td>Soluciones Tecnologicas del Futuro</td></tr>
                 <tr><td>Proyecto</td><td>Plataforma automatizada de despliegue</td></tr>
